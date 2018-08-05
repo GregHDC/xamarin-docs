@@ -52,7 +52,7 @@ Live app inspection is available for enterprise customers.
 |--- |--- |--- |
 |Mac|Only supported in Visual Studio for Mac|
 |iOS|Supported in Visual Studio 2017 and Visual Studio for Mac| |
-|Android|Supported in Visual Studio 2017 and Visual Studio for Mac|Must target Android >= 4.0.3, with **fastdev** enabled.<br />Must use Google, Visual Studio, or Xamarin Android emulators. Android 7 emulators may not allow inspection at this time.|
+|Android|Supported in Visual Studio 2017 and Visual Studio for Mac|Must target Android >= 4.0.3, with **fastdev** enabled.<br />Must use Google, Visual Studio, or Xamarin Android emulators. Android 7 emulators may not allow inspection at this time. Physical devices are not supported|
 |WPF|Only supported in Visual Studio 2017|
 
 <a name="reporting-bugs" />
